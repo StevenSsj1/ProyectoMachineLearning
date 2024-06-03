@@ -5,7 +5,13 @@ __pycache__/
 
 # C extensions
 *.so
-
+pyvenv.cfg
+lib64
+share
+lib
+include
+etc
+bin
 # Distribution / packaging
 .Python
 build/
